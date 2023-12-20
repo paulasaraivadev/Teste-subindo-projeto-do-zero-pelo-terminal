@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: #0000FF;
+}
+
+#principal{
+    color: #FF0000;
+}
+
+p{
+    color: #129920;
+}
